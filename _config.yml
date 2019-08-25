@@ -1,5 +1,5 @@
 # Name of your site (displayed in the header)
-name: jekyll-now-bs4
+name: test
 
 # Short bio or description (displayed in the header)
 description: Jekyll Now, with more. By @AjitZero
@@ -20,13 +20,13 @@ social:
 # google_analytics:
 
 # Used for Sitemap.xml and your RSS feed
-url: https://ajit.me/jekyll-now-bs4/
+url: https://bandanishanth.github.io/test/
 # Add complete URL if setting up as Project website of the form <user/org>.github.io/<repo>/
 
 # Leave baseurl empty when setting up repo for <user/org account>.github.io
 # baseurl: ""
 # Use name preceding with "/" for <user/org>.github.io/<repo>/
-baseurl: "/jekyll-now-bs4"
+baseurl: "/test"
 
 # DON'T REMOVE ANYTHING FROM BELOW:
 
